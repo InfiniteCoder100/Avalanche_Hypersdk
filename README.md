@@ -63,7 +63,7 @@ Interact and Test: Use provided demos or interact with the custom HyperChain to 
 Close the Network: After testing, close the local Avalanche network using the killall avalanche-network-runner command.
 
 ## Contributors
-This project was created by MetaCrafter Sirilux.
+This project was created by codeWithNoob100.
 
 ## License
 This project is licensed under the MIT License.
